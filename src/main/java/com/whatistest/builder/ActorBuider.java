@@ -16,6 +16,11 @@ public abstract class ActorBuider {
 
     public abstract void buildHairStyle();
 
+    // 引用钩子方法
+    public boolean isBareheaded() {
+        return false;
+    }
+
     public Actor createActor() {
         return actor;
     }
