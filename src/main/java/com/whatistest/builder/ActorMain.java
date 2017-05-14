@@ -10,6 +10,5 @@ public class ActorMain {
         Actor actor;
         actor = actorController.construct(actorBuider);
         System.out.println(actor.getType() + "的外观：" + actor.getFace());
-
     }
 }

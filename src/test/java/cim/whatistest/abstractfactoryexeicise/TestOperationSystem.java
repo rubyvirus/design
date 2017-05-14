@@ -1,7 +1,7 @@
 package cim.whatistest.abstractfactoryexeicise;
 
-import com.whatistest.clonemodel.abstractfactoryexercise.AndroidOperationSystem;
-import com.whatistest.clonemodel.abstractfactoryexercise.OperationSystem;
+import com.whatistest.abstractfactoryexercise.AndroidOperationSystem;
+import com.whatistest.abstractfactoryexercise.OperationSystem;
 import org.junit.Test;
 
 /**

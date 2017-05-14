@@ -3,6 +3,7 @@ package com.whatistest.clonemodel;
 import java.io.Serializable;
 
 /**
+ * 复制一个对象，涉及对象的根，一起复制
  * Created by rubyvirusqq@gmail.com on 2017/3/2.
  */
 public class Attachment implements Serializable {
